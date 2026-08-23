@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/uploads/
+
+# React
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/package-lock.json
+
+# JSON files (auto-generated)
+*.json
+!package.json
+!package-lock.json
+
+# IDE
+.vscode/
+.idea/
