@@ -1,0 +1,35 @@
+{
+  "generated": "2026-08-23T17:30:20.199442",
+  "total_transactions": 45,
+  "total_spent": 144457.0,
+  "categories": {
+    "other": 15,
+    "shopping": 4,
+    "bills": 3,
+    "transport": 1,
+    "education": 1,
+    "entertainment": 1,
+    "food": 12,
+    "health": 8
+  },
+  "categorized_count": 45,
+  "uncategorized_count": 0,
+  "memory_stats": {
+    "total_entries": 45,
+    "categories": [
+      "health",
+      "education",
+      "shopping",
+      "transport",
+      "food",
+      "bills",
+      "other",
+      "entertainment"
+    ]
+  },
+  "memory_hits": 45,
+  "rule_hits": 0,
+  "llm_hits": 0,
+  "accuracy": 1.0,
+  "ollama_available": true
+}

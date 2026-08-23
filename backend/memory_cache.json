@@ -1,0 +1,227 @@
+{
+  "amazon fresh": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:22.229520"
+  },
+  "amazon": {
+    "category": "shopping",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:22.235957"
+  },
+  "amazon prime video": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:24.265027"
+  },
+  "amazon kindle": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:26.311197"
+  },
+  "apple store": {
+    "category": "shopping",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:26.320929"
+  },
+  "apple music": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:28.360539"
+  },
+  "apple icloud": {
+    "category": "bills",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:28.370845"
+  },
+  "uber": {
+    "category": "transport",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:28.377436"
+  },
+  "uber eats": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:30.423874"
+  },
+  "uber freight": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:32.464688"
+  },
+  "google play books": {
+    "category": "education",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:32.474095"
+  },
+  "google drive": {
+    "category": "bills",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:32.480957"
+  },
+  "youtube premium": {
+    "category": "entertainment",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:32.488762"
+  },
+  "youtube music": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:34.506769"
+  },
+  "reliance digital": {
+    "category": "shopping",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:34.514940"
+  },
+  "reliance fresh": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:34.519366"
+  },
+  "reliance jio": {
+    "category": "bills",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:34.524576"
+  },
+  "reliance trends": {
+    "category": "shopping",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:34.529728"
+  },
+  "dmart": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:36.571121"
+  },
+  "dmart ready": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:38.608169"
+  },
+  "star bazaar": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:38.617511"
+  },
+  "star cafe": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:38.624984"
+  },
+  "star health": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:38.668338"
+  },
+  "gold's gym": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:38.677266"
+  },
+  "gym": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:38.700044"
+  },
+  "flight booking": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:40.759438"
+  },
+  "flight meal": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:42.813666"
+  },
+  "flight cancellation": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:44.861004"
+  },
+  "doctor": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:44.868962"
+  },
+  "clinic": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:44.875495"
+  },
+  "hospital": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:44.881552"
+  },
+  "pharmacy": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:44.887153"
+  },
+  "medplus": {
+    "category": "health",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:44.893731"
+  },
+  "apollo pharmacy": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:46.942113"
+  },
+  "starbucks": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.950523"
+  },
+  "starbucks reserve": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.959049"
+  },
+  "starbucks delivery": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.967410"
+  },
+  "macdonald's": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.976939"
+  },
+  "mcd": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.984531"
+  },
+  "kfc": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.991381"
+  },
+  "kfc delivery": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:46.999943"
+  },
+  "swiggy": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:47.012044"
+  },
+  "swiggy instamart": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:49.058643"
+  },
+  "swiggy genie": {
+    "category": "food",
+    "confidence": 0.85,
+    "last_used": "2026-08-23T17:20:49.064451"
+  },
+  "unknown xyz": {
+    "category": "other",
+    "confidence": 0.3,
+    "last_used": "2026-08-23T17:20:51.098090"
+  }
+}

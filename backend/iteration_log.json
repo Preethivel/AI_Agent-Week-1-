@@ -1,0 +1,317 @@
+[
+  {
+    "iteration": 1,
+    "transaction": "Amazon Fresh",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.013557"
+  },
+  {
+    "iteration": 2,
+    "transaction": "Amazon",
+    "category": "shopping",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.016751"
+  },
+  {
+    "iteration": 3,
+    "transaction": "Amazon Prime Video",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.020027"
+  },
+  {
+    "iteration": 4,
+    "transaction": "Amazon Kindle",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.031918"
+  },
+  {
+    "iteration": 5,
+    "transaction": "Apple Store",
+    "category": "shopping",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.034533"
+  },
+  {
+    "iteration": 6,
+    "transaction": "Apple Music",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.037305"
+  },
+  {
+    "iteration": 7,
+    "transaction": "Apple iCloud",
+    "category": "bills",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.041314"
+  },
+  {
+    "iteration": 8,
+    "transaction": "Uber",
+    "category": "transport",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.044973"
+  },
+  {
+    "iteration": 9,
+    "transaction": "Uber Eats",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.048693"
+  },
+  {
+    "iteration": 10,
+    "transaction": "Uber Freight",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.053375"
+  },
+  {
+    "iteration": 11,
+    "transaction": "Google Play Books",
+    "category": "education",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.056838"
+  },
+  {
+    "iteration": 12,
+    "transaction": "Google Drive",
+    "category": "bills",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.061238"
+  },
+  {
+    "iteration": 13,
+    "transaction": "YouTube Premium",
+    "category": "entertainment",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.064538"
+  },
+  {
+    "iteration": 14,
+    "transaction": "YouTube Music",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.068097"
+  },
+  {
+    "iteration": 15,
+    "transaction": "Reliance Digital",
+    "category": "shopping",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.071887"
+  },
+  {
+    "iteration": 16,
+    "transaction": "Reliance Fresh",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.075654"
+  },
+  {
+    "iteration": 17,
+    "transaction": "Reliance Jio",
+    "category": "bills",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.078948"
+  },
+  {
+    "iteration": 18,
+    "transaction": "Reliance Trends",
+    "category": "shopping",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.082666"
+  },
+  {
+    "iteration": 19,
+    "transaction": "DMart",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.085561"
+  },
+  {
+    "iteration": 20,
+    "transaction": "DMart Ready",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.091057"
+  },
+  {
+    "iteration": 21,
+    "transaction": "Star Bazaar",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.097304"
+  },
+  {
+    "iteration": 22,
+    "transaction": "Star Cafe",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.102591"
+  },
+  {
+    "iteration": 23,
+    "transaction": "Star Health",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.106434"
+  },
+  {
+    "iteration": 24,
+    "transaction": "Gold's Gym",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.110281"
+  },
+  {
+    "iteration": 25,
+    "transaction": "Gym",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.114151"
+  },
+  {
+    "iteration": 26,
+    "transaction": "Flight Booking",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.117907"
+  },
+  {
+    "iteration": 27,
+    "transaction": "Flight Meal",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.121542"
+  },
+  {
+    "iteration": 28,
+    "transaction": "Flight Cancellation",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.125143"
+  },
+  {
+    "iteration": 29,
+    "transaction": "Doctor",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.130162"
+  },
+  {
+    "iteration": 30,
+    "transaction": "Clinic",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.133791"
+  },
+  {
+    "iteration": 31,
+    "transaction": "Hospital",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.137457"
+  },
+  {
+    "iteration": 32,
+    "transaction": "Pharmacy",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.141581"
+  },
+  {
+    "iteration": 33,
+    "transaction": "MedPlus",
+    "category": "health",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.144910"
+  },
+  {
+    "iteration": 34,
+    "transaction": "Apollo Pharmacy",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.148706"
+  },
+  {
+    "iteration": 35,
+    "transaction": "Starbucks",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.152729"
+  },
+  {
+    "iteration": 36,
+    "transaction": "Starbucks Reserve",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.157903"
+  },
+  {
+    "iteration": 37,
+    "transaction": "Starbucks Delivery",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.162058"
+  },
+  {
+    "iteration": 38,
+    "transaction": "MacDonald's",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.167114"
+  },
+  {
+    "iteration": 39,
+    "transaction": "McD",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.172264"
+  },
+  {
+    "iteration": 40,
+    "transaction": "KFC",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.176844"
+  },
+  {
+    "iteration": 41,
+    "transaction": "KFC Delivery",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.179947"
+  },
+  {
+    "iteration": 42,
+    "transaction": "Swiggy",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.184973"
+  },
+  {
+    "iteration": 43,
+    "transaction": "Swiggy Instamart",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.188605"
+  },
+  {
+    "iteration": 44,
+    "transaction": "Swiggy Genie",
+    "category": "food",
+    "confidence": 0.85,
+    "timestamp": "2026-08-23T17:30:20.192732"
+  },
+  {
+    "iteration": 45,
+    "transaction": "Unknown XYZ",
+    "category": "other",
+    "confidence": 0.3,
+    "timestamp": "2026-08-23T17:30:20.195906"
+  }
+]
